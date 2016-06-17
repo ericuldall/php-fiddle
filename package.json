@@ -1,0 +1,16 @@
+{
+  "name": "php-fiddle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express_mvc": "^4.3.10",
+    "node-cache": "^3.2.1",
+    "shortid": "^2.2.6"
+  }
+}
